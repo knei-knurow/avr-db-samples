@@ -4,3 +4,4 @@
 - interfirens with shif register 74hc595
 - schemaitc:
 ![](img/sch.png)
+
